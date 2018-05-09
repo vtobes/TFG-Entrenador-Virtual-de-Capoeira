@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/KinectDemos/RecorderDemo/Scripts/Configuracion_boton_movimiento.cs">
+    <Files>
+      <File FileName="Assets/KinectScripts/KinectManager.cs" Line="2197" Column="1" />
+      <File FileName="Assets/KinectDemos/RecorderDemo/Scripts/Genera_lista_movimient.cs" Line="28" Column="4" />
+      <File FileName="Assets/KinectDemos/RecorderDemo/Scripts/Configuracion_boton_movimiento.cs" Line="21" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

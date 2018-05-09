@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Funcionales.Plugins", "Kinect Funcionales.Plugins.csproj", "{67015C03-6543-E0A3-6D04-78816313BCB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Funcionales", "Kinect Funcionales.csproj", "{9AF346AD-B61C-8C5F-6D1F-4399809D58D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinect Funcionales.Editor.Plugins", "Kinect Funcionales.Editor.Plugins.csproj", "{F817208B-FBAA-0F46-EBF0-AE25C6AE35EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67015C03-6543-E0A3-6D04-78816313BCB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67015C03-6543-E0A3-6D04-78816313BCB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67015C03-6543-E0A3-6D04-78816313BCB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67015C03-6543-E0A3-6D04-78816313BCB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF346AD-B61C-8C5F-6D1F-4399809D58D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF346AD-B61C-8C5F-6D1F-4399809D58D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF346AD-B61C-8C5F-6D1F-4399809D58D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF346AD-B61C-8C5F-6D1F-4399809D58D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F817208B-FBAA-0F46-EBF0-AE25C6AE35EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F817208B-FBAA-0F46-EBF0-AE25C6AE35EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F817208B-FBAA-0F46-EBF0-AE25C6AE35EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F817208B-FBAA-0F46-EBF0-AE25C6AE35EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

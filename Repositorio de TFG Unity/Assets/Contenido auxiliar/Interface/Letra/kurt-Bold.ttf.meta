@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dbfae1a84f3bdb5419a16078fa935d34
+timeCreated: 1494872982
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: kurt
+  fontNames:
+  - kurt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

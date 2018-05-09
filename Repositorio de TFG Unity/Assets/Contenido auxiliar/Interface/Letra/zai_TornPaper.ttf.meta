@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7f52aa7d6583398478d437941cafcf1b
+timeCreated: 1494872982
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zai Torn Paper
+  fontNames:
+  - zai Torn Paper
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

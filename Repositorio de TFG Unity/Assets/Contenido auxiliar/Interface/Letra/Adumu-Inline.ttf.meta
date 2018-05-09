@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ee4832809b8d0e439f2b5aa961f1022
+timeCreated: 1494872902
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adumu Inline
+  fontNames:
+  - Adumu Inline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
